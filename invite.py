@@ -284,3 +284,5 @@ Party Details:
             st.markdown("1. 📋 Copy the message above")
             st.markdown("2. 📱 Open WhatsApp manually")
             st.markdown(f"3. 📞 Send to: **+{your_phone_number[:2]} {your_phone_number[2:5]} {your_phone_number[5:8]} {your_phone_number[8:]}**")
+
+
